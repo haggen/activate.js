@@ -40,7 +40,7 @@ That's it! Whenever you click on the handle it toggles the `active` attribute on
 }
 ```
 
-Also, if you click either outside the target or on a element with the `deactivate`, while active, it deactivates.
+Also, if you click either outside the target or on a element with the `deactivate` attribute, while active, it deactivates.
 
 Don't believe me? [See it for yourself!](http://jsfiddle.net/apmkL087/)
 
